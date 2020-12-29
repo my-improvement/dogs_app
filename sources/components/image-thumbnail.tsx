@@ -9,7 +9,6 @@ type PropsType = {
 export default (props: PropsType) => {
   return (
     <View
-      key = {props.image}
       style = {{
         backgroundColor: 'crimson',
         borderRadius: 10,
