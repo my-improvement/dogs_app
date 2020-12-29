@@ -1,11 +1,16 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=crocodication.dogs_app" width="82" height="20"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github" height="18.5"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=crocodication.dogs_app" width="82" height="20"/>
+</p>
 
 # Dogs App
 
 > Projek Contoh Untuk Komponen dan Fetch di React-Native Menggunakan TypeScript
 
 <p align="center">
-    <img src="./screenshots/0.png" alt="App Preview" width="300"/>
+  <img src="./screenshots/0.png" alt="App Preview" width="300"/>
 </p>
 
 # Catatan
