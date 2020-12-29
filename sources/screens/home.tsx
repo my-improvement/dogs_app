@@ -46,7 +46,7 @@ export default () => {
         }}
       >
         {
-          images.map((image, imageIndex) => (
+          images.map((image: string, imageIndex: number) => (
             <ImageThumbnail
               key = {image}
               image = {image}
