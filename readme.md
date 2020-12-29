@@ -1,3 +1,5 @@
+<img src="https://visitor-badge.laobi.icu/badge?page_id=crocodication.dogs_app" width="82" height="20"/>
+
 # Dogs App
 
 > Projek Contoh Untuk Komponen dan Fetch di React-Native Menggunakan TypeScript
