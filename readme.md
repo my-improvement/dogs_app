@@ -7,6 +7,8 @@
 
 # Dogs App
 
+Snack Expo: https://snack.expo.io/9aQuS2J6X
+
 > Projek Contoh Untuk Komponen dan Fetch di React-Native Menggunakan TypeScript
 
 <p align="center">
